@@ -1,0 +1,13 @@
+.idea
+*.csv
+*.pyc
+*__pycache__*
+network/datasets/checkers/*.csv
+network/datasets/log/train/*
+network/datasets/train/*.jpg
+network/datasets/valid/*.jpg
+network/datasets/curp_data/*.jpg
+network/frozen_graphs/train*
+network/models/*checkpoint
+network/models/ocr-model*
+captchas_demo/*
